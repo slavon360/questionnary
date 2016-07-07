@@ -7,7 +7,7 @@ If option 1 is picked appears next question: Which product / kind of service do 
 
 If option 1 is picked appears conclusion: "Feel free to buy a horse and keep in your apartment".
 # Data structure example
-[
+'''[
   { 
     id: 1,
     questions: "How many free space do you have in your apartment? ",
@@ -48,7 +48,7 @@ If option 1 is picked appears conclusion: "Feel free to buy a horse and keep in 
     id: 5,
     result: "Feel free to buy a horse and keep in your apartment"
   }
-]
+]'''
 
 # Used technologies
 
