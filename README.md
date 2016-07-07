@@ -1,4 +1,3 @@
-# questionnary
 # Description
 Code presented here is a complex questionnaire, in which almost every questions has two or more parents. After a series of questions conclusion appears.
 
