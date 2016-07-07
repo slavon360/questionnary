@@ -6,8 +6,9 @@ E.g.: How many free space do you have in your apartment? 1) a lot; 2) a little; 
 If option 1 is picked appears next question: Which product / kind of service do you want more? 1) transportation 2) eggs; 3) milk;
 
 If option 1 is picked appears conclusion: "Feel free to buy a horse and keep in your apartment".
-# Data structure example
-'''[
+## Data structure example
+
+```[
   { 
     id: 1,
     questions: "How many free space do you have in your apartment? ",
@@ -48,17 +49,19 @@ If option 1 is picked appears conclusion: "Feel free to buy a horse and keep in 
     id: 5,
     result: "Feel free to buy a horse and keep in your apartment"
   }
-]'''
+]
+```
 
-# Used technologies
+## Used technologies
 
 pure JS
 
-# App directory Layout
-
+## App directory Layout
+```
 js/            
   data.js            --> data (array of questions)
   main.js            --> main logic
 
 style.css             --> default stylesheet  
 index.html            --> the main html 
+```
